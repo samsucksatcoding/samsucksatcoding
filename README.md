@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/934530409293824020"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/934530409293824020?bg=00000000" /></a>
 
-<a href="https://samsucksatwebsites.pages.dev/"><img src="./assets/logo.png" height="110" /></a>
+<a href="https://samsucksatwebsites.pages.dev/"><img src="./assets/button.gif" height="110" /></a>
 <details>
   <summary><b>📋 About</b></summary>
 
