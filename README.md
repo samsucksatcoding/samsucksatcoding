@@ -1,6 +1,6 @@
 <a href="https://discord.com/users/934530409293824020"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/934530409293824020?bg=00000000" /></a>
 
-<a href="https://samsucksatwebsites.pages.dev/"><img src="./assets/button.gif" height="110" /></a>
+<a href="https://vroots.pages.dev/index.html"><img src="https://vroots.pages.dev/images/button.png" alt="VioletRoots" height="110px"></a>
 <details>
   <summary><b>📋 About</b></summary>
 
