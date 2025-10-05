@@ -28,8 +28,8 @@ I love coding, tinkering with projects, and learning new technologies.
 [![GitHub Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsamsucksatcoding&longCache=true)](https://github.com/samsucksatcoding)
 
 - Portfolio: [https://orbitt.sbs](https://orbitt.sbs)
-- Discord: `Sam#0000`
-- Email: `your-email@example.com`
+- Discord: `squishyy_x3`
+- Email: `imorbitt@mail.com`
 
 ---
 
