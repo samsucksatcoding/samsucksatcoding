@@ -1,5 +1,5 @@
+<h1 align="center">Hi! I'm Sam!</h1>
 <p align="center">
-  <h1>Hi! I'm Sam!</h1>
   <a href="https://discord.com/users/1356484298705862676">
     <img src="https://lanyard.cnrad.dev/api/1356484298705862676" alt="Discord Presence">
   </a>
